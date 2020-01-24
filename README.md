@@ -3,6 +3,13 @@
 Reference : https://medium.com/@sopheamak/springboot-security-with-jwt-fca1446790ba
 
 
+Used postgresql Database:
+===========================
+1. CREATE DATABASE jwt;
+2. CREATE SCHEMA jwt;
+3. Table automatically created, int this case.
+
+
 REST APIs Test
 ------------------------
 
